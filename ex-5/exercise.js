@@ -1,5 +1,5 @@
 // Example
 //window.alert("Hello World!");
-var x = prompt("write the text");
-var y = x.length;
-window.alert(x + "  " + y);
+var text = prompt("write the text");
+var number = text.length;
+window.alert(text + "  " + number);
